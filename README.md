@@ -1,13 +1,12 @@
-# Chingu Solo Project - Tier 1 - Chingu Trivia
+# Chingu Solo Project - Tier 1 - Chingu Trivia - for Product Owners
 
 ## Overview 
 
-This project is a great opportunity to develop a clean and modern webpage. The trivia app will be completed across tiers, with each tier adding a new level of complexity. You are currently on the **Tier 1 repo**. You'll be responsible for coding the **HTML**, **CSS**, and **JavaScript** to get the structure, styling, and some basic functionality up and running.
+As a Product Owner this project is a great opportunity to demonstrate your organization skills to help a team who will develop this clean and modern webpage. 
 
-As you add skills to your developer toolbag you'll be able to come back to this project and add in the Tiers 2 and 3 features. Ultimately you'll have a great portfolio piece, and will have implemented a number of common and in-demand features.
+You are currently on the **Tier 1 repo** and this Solo Project is only for Product Owners **not** Developers. You'll be responsible for creating User Stories and Tasks from the requirements listed below.
 
-**You May NOT Use Libraries and/or Frameworks for Tiers 1**
-
+As you increase your Product Owner skills and experience you'll be able to come back to this project and enhance it for the Tier 2 and 3 versions of it. Ultimately you'll have a great portfolio piece to share with interviewers.
 ## About Chingu
 
 If you aren’t yet a member of Chingu we invite you to join us. We help our 
@@ -23,7 +22,10 @@ You can learn more and join us at [chingu.io](https://chingu.io).
 
 ## Instructions
 
-General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the `#read-me-first` channel on Discord).
+General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). You can also find more information about the User Stories [here](https://docs.chingu.io/projres/agile101#building-the-backlog)
+
+
+
 
 #### Requirements
 
