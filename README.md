@@ -24,8 +24,7 @@ You can learn more and join us at [chingu.io](https://chingu.io).
 
 General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). You can also find more information about the User Stories [here](https://docs.chingu.io/projres/agile101#building-the-backlog)
 
-
-
+You may create your User Stories and tasks as text file or in the tool of your choice (like ZenHub, Notion, Trello, etc.). Remember that you don't neet to worry about technical details. What's important is to demonstrate your ability to create a set of tasks a team could follow to build the app.
 
 #### Requirements
 
