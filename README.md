@@ -4,7 +4,7 @@
 
 As a Product Owner this project is a great opportunity to demonstrate your organization skills to help a team who will develop this clean and modern webpage. 
 
-You are currently on the **Tier 1 repo** and this Solo Project is only for Product Owners **not** Developers. You'll be responsible for creating User Stories from the requirements listed below (see [Instructions](#instructions). 
+You are currently on the **Tier 1 repo** and this Solo Project is only for Product Owners **not** Developers. You'll be responsible for creating User Stories from the requirements listed below (see [Instructions](#instructions)). 
 
 As you increase your Product Owner skills and experience you'll be able to come back to this project and enhance it for the Tier 2 and 3 versions of it. Ultimately you'll have a great portfolio piece to share with interviewers.
 ## About Chingu
