@@ -1,6 +1,6 @@
 # Chingu Solo Project - Tier 1 - Chingu Trivia - for Product Owners
 
-## Overview 
+## Overview
 
 As a Product Owner this project is a great opportunity to demonstrate your 
 organization skills to help a team who will develop this clean and modern 
