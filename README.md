@@ -31,7 +31,7 @@ You can learn more and join us at [chingu.io](https://chingu.io).
 General instructions for all Pre-Work Projects can also be found in the 
 Chingu Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). 
 You can also find more information about the User Stories 
-[here](https://docs.chingu.io/projres/agile101#building-the-backlog)
+[here](https://www.notion.so/Agile-Methodology-101-1894ac9115304fe7a9586c6c7d594470)
 
 ### What You Need to Do
 
