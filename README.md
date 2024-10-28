@@ -45,8 +45,8 @@ team members working on it.
 the [Requirements](#requirements), **_not_** to create a working version of 
 the app!
 
-You may create your User Stories and tasks as text file or in the tool of your 
-choice (like ZenHub, Notion, Trello, etc.). Remember that you don't neet to 
+You may create your User Stories and tasks in the tool of your 
+choice (like Jira, GitHub Projects, Trello, etc.). Remember that you don't neet to 
 worry about technical details. What's important is to demonstrate your ability 
 to create a set of tasks a team could follow to build the app.
 
